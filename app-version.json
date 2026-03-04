@@ -1,7 +1,8 @@
 {
-  "packageName": "com.tu.package",
-  "latestVersion": "1.05",
-  "minSupportedVersion": "1.04",
+  "packageName": "com.Absolent.WordcraftWardenRunes",
+  "latestVersion": "1.16",
+  "minSupportedVersion": "1.16",
   "forceUpdate": true,
-  "storeUrl": "https://play.google.com/store/apps/details?id=com.tu.package"
+  "storeUrl": "https://play.google.com/store/apps/details?id=com.Absolent.WordcraftWardenRunes"
 }
+
